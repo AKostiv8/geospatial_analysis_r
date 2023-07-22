@@ -1,7 +1,4 @@
-# GEOSPATIAL ANALYSIS 2 ----
-# *** ----
-
-
+# GEOSPATIAL ANALYSIS ----
 # LIBRARIES ----
 library(osmdata)    # Open Street Map Overpass API
 library(osrm)       # Open Street Map Routing API
